@@ -24,3 +24,7 @@ $( document ).ready(function() {
     }
    
 });
+
+document.getElementById('no').addEventListener('click', function() {
+    alert('Are you sure?');
+});
