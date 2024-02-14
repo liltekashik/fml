@@ -26,5 +26,5 @@ $( document ).ready(function() {
 });
 
 document.getElementById('no').addEventListener('click', function() {
-    alert('Are you sure?');
+    alert('Э бля, закрой!');
 });
