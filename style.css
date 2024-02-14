@@ -233,6 +233,15 @@ body {
   text-align: center;
 }
 
+h1 {
+  text-align: center;
+  color: #ff5757;
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
 .reset button {
   font-weight: 800;
   font-style: normal;
